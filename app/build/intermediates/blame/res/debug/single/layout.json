@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_notification.xml",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\layout\\layout_notification.xml"
+    },
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_vlc.xml",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\layout\\activity_video_vlc.xml"
+    },
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

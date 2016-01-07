@@ -1,0 +1,95 @@
+[
+    {
+        "outputFile": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 57,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 55,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 44,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endColumn": 52,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

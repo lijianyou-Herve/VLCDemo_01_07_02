@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lock_bg_top.png",
+        "source": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\drawable-xhdpi\\lock_bg_top.png"
+    }
+]

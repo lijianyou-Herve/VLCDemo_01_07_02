@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Android_GitHUb\\VLC\\vlc-android-master-dea96fdede1f9e9923679571a5f08c1f1b156f2f\\VLCDemo_01_07_02\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            }
+        ]
+    }
+]
